@@ -6,7 +6,7 @@
         <div class="avatar">{{ store.name[0] }}</div>
         <div>
           <div class="username">{{ store.name }}</div>
-          <div class="level-label">Уровень {{ store.level }} · Звёздный охотник</div>
+          <div class="level-label">Уровень {{ store.level }} · Звёздный охотник хихи</div>
         </div>
       </div>
       <div class="stars-chip">⭐ {{ store.stars }}</div>
